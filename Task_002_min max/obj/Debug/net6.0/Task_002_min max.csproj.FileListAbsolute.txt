@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C#_Homework_01\Task_002_min max\bin\Debug\net6.0\Task_002_min max.exe
+C:\Users\User\Desktop\C#_Homework_01\Task_002_min max\bin\Debug\net6.0\Task_002_min max.deps.json
+C:\Users\User\Desktop\C#_Homework_01\Task_002_min max\bin\Debug\net6.0\Task_002_min max.runtimeconfig.json
+C:\Users\User\Desktop\C#_Homework_01\Task_002_min max\bin\Debug\net6.0\Task_002_min max.dll
+C:\Users\User\Desktop\C#_Homework_01\Task_002_min max\bin\Debug\net6.0\ref\Task_002_min max.dll
+C:\Users\User\Desktop\C#_Homework_01\Task_002_min max\bin\Debug\net6.0\Task_002_min max.pdb
+C:\Users\User\Desktop\C#_Homework_01\Task_002_min max\obj\Debug\net6.0\Task_002_min max.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#_Homework_01\Task_002_min max\obj\Debug\net6.0\Task_002_min max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#_Homework_01\Task_002_min max\obj\Debug\net6.0\Task_002_min max.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#_Homework_01\Task_002_min max\obj\Debug\net6.0\Task_002_min max.AssemblyInfo.cs
+C:\Users\User\Desktop\C#_Homework_01\Task_002_min max\obj\Debug\net6.0\Task_002_min max.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#_Homework_01\Task_002_min max\obj\Debug\net6.0\Task_002_min max.dll
+C:\Users\User\Desktop\C#_Homework_01\Task_002_min max\obj\Debug\net6.0\ref\Task_002_min max.dll
+C:\Users\User\Desktop\C#_Homework_01\Task_002_min max\obj\Debug\net6.0\Task_002_min max.pdb
+C:\Users\User\Desktop\C#_Homework_01\Task_002_min max\obj\Debug\net6.0\Task_002_min max.genruntimeconfig.cache
